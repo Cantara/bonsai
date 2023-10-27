@@ -1,5 +1,7 @@
 module github.com/Cantara/bonsai
 
-go 1.17
+go 1.21
 
-require github.com/cantara/bragi v0.5.5
+toolchain go1.21.3
+
+require github.com/cantara/bragi v0.7.3
